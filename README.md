@@ -5,9 +5,11 @@
 **For Elegant Sister**
 
 A yearly chaotic playlist by drea. Always set to shuffle. Every song plays only once.
+
 The goal: **Survive.**
 
 Playlist contains a little bit of everything, ranging from retrowave to symphonic metal.
+
 _Caution: Not safe for working._ Some tracks listed here distract the mind. 
 Listen only in your leisure time.
 
