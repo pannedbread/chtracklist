@@ -17,7 +17,6 @@ Listen only in your leisure time.
 
 Sorted by:
 **_Album_** (Artist)
-_Disc No._ (if available)
 
 *[ND] beside an album name specifies that it's Non-Doujin
 
@@ -59,12 +58,9 @@ _Disc No._ (if available)
 - Encounters
 
 **_DIVERSITY_** (M2U)
-_Disc 1_
 - Marigold (feat. グリリ)
 - 紅蓮の唄 (feat. Sherie)
 - 前代未聞
-
-_Disc 2_
 - Moon Halo
 - Masquerade
 
