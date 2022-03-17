@@ -103,7 +103,7 @@ _Disc 2_
 **_Oriens/Dawn EP_** (ginkiha+kamome sano)
 - dawn (kamome sano)
 - Oriens (ginkiha)
-- 
+
 **_Parousia_** (xi, 100sec Records)
 - Halcyon
 
@@ -125,6 +125,8 @@ _Disc 2_
 - 黄泉より聴こゆ、皇国の燈と焔の少女。
 
 ## Landmines(?)
+*i donno what you call them. they're tracks that are from mainstream western media, from youtube or otherwise
+
 Tracks that give the chaos playlist life.
 Since the playlist is set to shuffle, these may appear at any time. Be wary(?).
 
@@ -139,6 +141,5 @@ Since the playlist is set to shuffle, these may appear at any time. Be wary(?).
 9. Glenn Frey - The One You Love
 10. Saint Motel - Preach _(also good.)_
 
-###### _Legends foretell of a hidden track... one that precedes all others. The legend goes on to describe a sound so familiar and so grounded to reality that one press of the 'play' button reflects the state of the current world our physical selves live in._
-###### _No one can deny the familiarity of this tune. It lives in one note, and buzzes deep within the bowels of our ears... that is, after you press the button._
-###### Mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+###### oh shit i think i added something here too...
+###### mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
