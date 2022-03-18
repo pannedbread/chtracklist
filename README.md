@@ -1,3 +1,4 @@
+
 # Chaos Stream 2022
 ###### Revised Mar 17, 2022 1:39pm
 **May 31, 2022**
@@ -7,13 +8,15 @@
 A yearly chaotic playlist by drea. Always set to shuffle. Every song plays only once.
 
 The goal: **Survive.**
+...Or vibe. Whichever.
 
 Playlist contains a little bit of everything, ranging from retrowave to symphonic metal.
 
 _Caution: Not safe for working._ Some tracks listed here distract the mind. 
 Listen only in your leisure time.
+If you're sure with yourself, play at your own risk.
 
-#### Total Songs: 64 tracks from 25 different albums
+#### Total Songs: 64 tracks from 27 different albums
 
 Sorted by:
 
@@ -26,6 +29,13 @@ Sorted by:
 **[ND] _告白実行委員会_** (HoneyWorks)
 - Senpai. (HoneyWorks meets TrySail)
 
+**_AD:PIANO ff/pp_** (Diverse System)
+- Paranoia Sonatina -Grande- (Spiegel vs. Yukino)
+
+**_Arc of the Colourless_** (Binzokomegane Girls Union)
+- Orbit (MK)
+- Deep Field (Bernis)
+
 **[ND] _Atlas_** (FM-84)
  - Everything
  - Chasing Yesterday
@@ -34,7 +44,6 @@ Sorted by:
 **_Avalon_** (Powerless)
 - Sky Falls Down
 - Frey's Philosophy
-- Last Bell
 - Catastrophe
 
 **_Back to Summer :again_** (wavforme)
@@ -53,19 +62,13 @@ Sorted by:
 **[ND] _Cocoon_** (waterfront dining)
 - lonesome breezes
 
-**_Cyphisonia EP_** (Camellia)
-- Welcome To The Cyphisonia
-- Dans la mer du son
-
 **[ND] _Distance_** (bl00dwave)
 - Encounters
 
 **_DIVERSITY_** (M2U)
-- Marigold (feat. グリリ)
 - 紅蓮の唄 (feat. Sherie)
 - 前代未聞
-- Moon Halo
-- Masquerade
+- 夜明けの歌 (feat.ダズビー)
 
 **_florere_** (aeterne（花近×そらこ）)
 - 陽だまりのメロディ
@@ -79,7 +82,6 @@ Sorted by:
 
 **_Homecoming_** (Shintaro)
 - Arc of Space
-- Break of Dawn
 - Homecoming
 
 **[ND] _Lapse of Candor_** (hello meteor)
