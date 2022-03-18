@@ -8,6 +8,7 @@
 A yearly chaotic playlist by drea. Always set to shuffle. Every song plays only once.
 
 The goal: **Survive.**
+
 ...Or vibe. Whichever.
 
 Playlist contains a little bit of everything, ranging from retrowave to symphonic metal.
