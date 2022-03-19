@@ -71,7 +71,7 @@ Sorted by:
 - 前代未聞
 - 夜明けの歌 (feat.ダズビー)
 
-**[ND]_eyes_** (milet)
+**[ND] _eyes_** (milet)
 - 航海前夜
 - Prover
 
