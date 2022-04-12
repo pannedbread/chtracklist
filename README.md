@@ -27,8 +27,8 @@ Sorted by:
 
 -------------------------------------------------------------------------------------------------------------
 
-**[ND] _告白実行委員会_** (HoneyWorks)
-- Senpai. (HoneyWorks meets TrySail)
+**[ND] _6 case_** (ユアネス)
+- 「私の最後の日」
 
 **_AD:PIANO ff/pp_** (Diverse System)
 - Paranoia Sonatina -Grande- (Spiegel vs. Yukino)
