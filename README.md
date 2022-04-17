@@ -137,7 +137,7 @@ Sorted by:
 *i donno what you call them. they're tracks that are from mainstream western media, from youtube or otherwise
 
 Tracks that give the chaos playlist life.
-Since the playlist is set to shuffle, these may appear at any time. Be wary(?).
+Since the playlist is set to shuffle, these may appear at any time.
 
 1. Justin Timberlake - SexyBack
 2. Lady Gaga - Poker Face
@@ -145,10 +145,10 @@ Since the playlist is set to shuffle, these may appear at any time. Be wary(?).
 4. Owl City - Fireflies
 5. Train - Hey, Soul Sister
 6. Vanessa Carlton - A Thousand Miles
-7. Rick Astley - Never Gonna Give You Up _(except, personally, this is really good.)_
+7. Rick Astley - Never Gonna Give You Up
 8. FosterThePeople - Pumped Up Kicks
 9. Glenn Frey - The One You Love
-10. Saint Motel - Preach _(also good.)_
+10. Saint Motel - Preach
 
 ###### oh shit i think i added something here too...
 ###### mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
