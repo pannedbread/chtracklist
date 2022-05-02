@@ -16,7 +16,7 @@ _Caution: Not safe for working._ Some tracks listed here distract the mind.
 Listen only in your leisure time.
 If you're sure with yourself, play at your own risk.
 
-#### Total Songs: 64 tracks from 27 different albums
+#### Total Songs: 64 tracks from 30 different albums
 
 Sorted by:
 
@@ -31,6 +31,10 @@ Sorted by:
 
 **_AD:PIANO ff/pp_** (Diverse System)
 - Paranoia Sonatina -Grande- (Spiegel vs. Yukino)
+
+**_Agartha -The Fields-_** (清水嶺)
+- Rainbow road
+- Blizzard
 
 **_Arc of the Colourless_** (Binzokomegane Girls Union)
 - Orbit (MK)
@@ -51,7 +55,6 @@ Sorted by:
 - Neon Diver (Massive New Krew)
 
 **_Back to Summer 3_** (wavforme)
-- Holographic Summer (Dirty Androids)
 - Scuba Diving (MK)
 - Soft Drink Party (kasa.)
 
@@ -61,9 +64,6 @@ Sorted by:
 
 **[ND] _Cocoon_** (waterfront dining)
 - lonesome breezes
-
-**[ND] _Distance_** (bl00dwave)
-- Encounters
 
 **_DIVERSITY_** (M2U)
 - 紅蓮の唄 (feat. Sherie)
@@ -82,7 +82,7 @@ Sorted by:
 - Foolish Days
 - My Future
 
-**_Happppy songs EP_** (SOOOO)
+**[ND] _Happppy songs EP_** (SOOOO)
 - Happppy song (ft. Kagamine Len)
 
 **_Homecoming_** (Shintaro)
@@ -90,7 +90,6 @@ Sorted by:
 - Homecoming
 
 **[ND] _Lapse of Candor_** (hello meteor)
-- Fata Morgana
 - Breeze Bay
 
 **[ND] _Maverick (Atlas B-Sides)_** (FM-84)
@@ -119,21 +118,28 @@ Sorted by:
 **_[ND] Pictures of Islands_** (hello meteor)
 - Pictures of Islands
 - North Shore Rain
-- Summer Always Ends
+
+**_Proud Sellout_** (RJT Music)
+- See You In The Digital Sea (Soleily)
 
 **_Realm in the Sky_** (skymuted)
 - Realm in the Sky
 
+**_Spirit Chords_** (wavforme)
+- Atonement (Blacklolita)
+- Overlord (SprightS)
+
 **[ND] _Starlight Commercial_** (waterfront dining)
-- the bubble room (so tenderly)
 - saturday the 14th (is it love?)
-- custom order
+
+**_こんな私の音楽を、どうか聴いてくれますか。_** (si-sounds)
+- dusk
 
 **_神罰を辿り狂骨に至る_** (Imperial Circus Dead Decadence)
 - 神罰を辿り狂骨に至る
 - 黄泉より聴こゆ、皇国の燈と焔の少女。
 
-## Landmines(?)
+## ???
 *i donno what you call them. they're tracks that are from mainstream western media, from youtube or otherwise
 
 Tracks that give the chaos playlist life.
