@@ -16,7 +16,7 @@ _Caution: Not safe for working._ Some tracks listed here distract the mind.
 Listen only in your leisure time.
 If you're sure with yourself, play at your own risk.
 
-#### Total Songs: 64 tracks from 30 different albums
+#### Total Songs: 64 tracks from 31 different albums
 
 Sorted by:
 
@@ -44,6 +44,9 @@ Sorted by:
  - Everything
  - Chasing Yesterday
  - Arcade Summer
+
+**_Aurora Night_** (Bernis)
+- Aurora Night (Original Mix)
 
 **_Avalon_** (Powerless)
 - Sky Falls Down
